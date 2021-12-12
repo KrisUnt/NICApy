@@ -1,7 +1,7 @@
 <!DOCTYPE html><html><head><meta charset="utf-8"></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="NICApy_0"></a>NICApy</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2><a id="A_Pythonbased_GUI_application_for_fNIRS_signal_analysis_1"></a>A Python-based GUI application for fNIRS signal analysis</h2>
-<p class="has-line-data" data-line-start="4" data-line-end="5">NICApy is a Python-based software for fNIRS signal analysis. It allows to load data files recorded with the NIRScout measurement device of NIRx and performs processing steps including filtering and artefact correction on single measurement data. After a single analysis a modified t-test can be performed in order to verify the presence of a signal. Furthermore, NICApy allows to perform a Grand Average analysis to obtain group specific results for further statistical analysis.</p>
+<p class="has-line-data" data-line-start="4" data-line-end="5">NICApy is a Python-based software for fNIRS signal analysis. It is build upon the MATLAB-based NICA GUI software created by Philipp Raggam. It allows to load data files recorded with the NIRScout measurement device of NIRx and performs processing steps including filtering and artefact correction on single measurement data. After a single analysis a modified t-test can be performed in order to verify the presence of a signal. Furthermore, NICApy allows to perform a Grand Average analysis to obtain group specific results for further statistical analysis.</p>
 <h2 class="code-line" data-line-start=7 data-line-end=8><a id="Features_7"></a>Features</h2>
 <ul>
 <li class="has-line-data" data-line-start="9" data-line-end="10">Loading hdr and xdf files</li>
